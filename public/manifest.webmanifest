@@ -1,0 +1,73 @@
+{
+  "id": "/",
+  "name": "ZORVYX AI – زورفيكس",
+  "short_name": "ZORVYX AI",
+  "description": "منصة ZORVYX AI (زورفيكس) الشاملة للذكاء الاصطناعي: المهام، الرسوم البيانية، شرح الفيديو الكامل، المقابلات، العقود، الصحة والتغذية، المُتحدّث الصوتي الذكي والمستندات.",
+  "categories": ["productivity", "utilities", "education"],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "#050712",
+  "theme_color": "#070a17",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/assets/aistudio/file_00000000d6f48210967f2a13492a2ae2_cfdde145.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/file_00000000d6f48210967f2a13492a2ae2_cfdde145.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "المساعد الذكي العام",
+      "short_name": "اسأل",
+      "url": "/?q=",
+      "icons": [
+        {
+          "src": "/icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "شرح الموضوع بفيديو",
+      "short_name": "فيديو",
+      "url": "/?tool=video_explainer",
+      "icons": [
+        {
+          "src": "/icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "المهام اليومية",
+      "short_name": "المهام",
+      "url": "/?tool=tasks",
+      "icons": [
+        {
+          "src": "/icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

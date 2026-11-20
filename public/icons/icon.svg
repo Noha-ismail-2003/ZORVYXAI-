@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bgLux" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090a1a"/>
+      <stop offset="55%" stop-color="#141132"/>
+      <stop offset="100%" stop-color="#0a192c"/>
+    </linearGradient>
+    <linearGradient id="prismRing" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0%" stop-color="#f5d0fe"/>
+      <stop offset="35%" stop-color="#a78bfa"/>
+      <stop offset="70%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <linearGradient id="facetGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="innerCrown" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bgLux)"/>
+  <polygon points="256,46 404,108 466,256 404,404 256,466 108,404 46,256 108,108" fill="url(#innerCrown)" stroke="url(#prismRing)" stroke-width="10" stroke-linejoin="round"/>
+  <polygon points="256,74 384,128 438,256 384,384 256,438 128,384 74,256 128,128" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="3"/>
+  <path d="M168 176 H344 L176 336 H344" fill="none" stroke="url(#facetGold)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M168 176 H344" fill="none" stroke="#67e8f9" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+  <path d="M256 106 L268 134 L296 146 L268 158 L256 186 L244 158 L216 146 L244 134 Z" fill="#fbbf24"/>
+  <circle cx="352" cy="176" r="10" fill="#67e8f9"/>
+  <circle cx="160" cy="336" r="10" fill="#f9a8d4"/>
+</svg>

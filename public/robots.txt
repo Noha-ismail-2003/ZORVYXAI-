@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /.netlify/
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.netlify/
+
+Sitemap: https://ais-pre-j3nrqdg4g5acfqe7yahu2v-1009899216285.europe-west2.run.app/sitemap.xml

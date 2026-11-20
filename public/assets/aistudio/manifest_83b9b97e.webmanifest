@@ -1,0 +1,11 @@
+{
+  "name": "ZORVYX AI",
+  "short_name": "ZORVYX",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b19",
+  "theme_color": "#111126",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}

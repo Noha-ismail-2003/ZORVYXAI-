@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>ZORVYX AI</ShortName>
+  <LongName>ZORVYX AI – زورفيكس | منصة الذكاء الاصطناعي الشاملة</LongName>
+  <Description>ابحث واسأل منصة ZORVYX AI (زورفيكس) للذكاء الاصطناعي مباشرة من شريط البحث في قوقل كروم.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Image width="1024" height="1024" type="image/png">https://ais-pre-j3nrqdg4g5acfqe7yahu2v-1009899216285.europe-west2.run.app/assets/aistudio/file_00000000d6f48210967f2a13492a2ae2_cfdde145.png</Image>
+  <Image width="64" height="64" type="image/svg+xml">https://ais-pre-j3nrqdg4g5acfqe7yahu2v-1009899216285.europe-west2.run.app/icons/icon.svg</Image>
+  <Url type="text/html" method="get" template="https://ais-pre-j3nrqdg4g5acfqe7yahu2v-1009899216285.europe-west2.run.app/?q={searchTerms}&amp;source=chrome" />
+  <moz:SearchForm>https://ais-pre-j3nrqdg4g5acfqe7yahu2v-1009899216285.europe-west2.run.app/</moz:SearchForm>
+</OpenSearchDescription>

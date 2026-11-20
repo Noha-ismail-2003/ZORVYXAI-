@@ -1,0 +1,8 @@
+{
+  "name": "ZORVYXAi",
+  "description": "تطبيق جميل للغاية فيه الكثير من المميزات وبحل الكثير من المشاكل ويدعم الذكاء الاصطناعي ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
